@@ -1,0 +1,20 @@
+*{
+    background-color: aquamarine;
+}
+
+h1{
+    text-transform: uppercase;
+}
+#Web{
+    text-align: center;
+    color: darkslategrey;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 25%;
+    font-family: "Libre Baskerville", serif;
+}
+
+img{
+    width: 100%;
+    border: 2px solid white;
+}
